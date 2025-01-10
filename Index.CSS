@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+    margin-left: 550px;
+}
+
+#Form{
+   margin-left: -25px;
+}
+
+
+#newTask{
+    background-color: rgb(255, 220, 177);
+}
